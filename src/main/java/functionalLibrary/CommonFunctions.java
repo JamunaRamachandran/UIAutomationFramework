@@ -17,7 +17,7 @@ public class CommonFunctions
 
 {
         public static WebDriver driver;
-git config
+
         public void openBrowser()
         {
             //WebDriverManager.chromedriver().setup();
